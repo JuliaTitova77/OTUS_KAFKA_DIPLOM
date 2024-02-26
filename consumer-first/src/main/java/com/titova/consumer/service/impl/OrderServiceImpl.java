@@ -40,7 +40,7 @@ public class OrderServiceImpl implements OrderService {
 
         ordersRepository.save(order);
 
-        log.info("Save order");
+        log.info("Save order to table orders");
 
         return order;
     }

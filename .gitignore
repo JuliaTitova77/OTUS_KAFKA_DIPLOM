@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/consumer-second/src/test/
+/producer/src/test/
+/consumer-first/src/test/
